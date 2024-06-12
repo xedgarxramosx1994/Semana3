@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.Login"
+             Title="Login">
+    <VerticalStackLayout
+    Spacing="20"
+    Padding="20">
+        <Label
+            Text="Inicio de sesión"
+            HorizontalTextAlignment="Center"
+            FontSize="20"
+            TextColor="#283618"
+            HorizontalOptions="Center"/>
+
+        <Image Source="https://cdn-icons-png.freepik.com/512/5087/5087607.png"
+               WidthRequest="100"></Image>
+        <Image Source="https://revista.uisrael.edu.ec/images/uisrael.png"
+               WidthRequest="200"></Image>
+        <Entry x:Name="txtUser"
+               Placeholder="Usuario"/>
+        <Entry x:Name="txtPassword"
+               Placeholder="Contraseña"
+               IsPassword="true"/>
+        <Button x:Name="btnLogin"
+        Clicked="btnLogin_Clicked"
+        Text="Iniciar Sesión"
+        />
+        <Button x:Name="btnRegister"
+        Clicked="btnRegister_Clicked"
+        Text="Crear Cuenta"/>
+    </VerticalStackLayout>
+</ContentPage>

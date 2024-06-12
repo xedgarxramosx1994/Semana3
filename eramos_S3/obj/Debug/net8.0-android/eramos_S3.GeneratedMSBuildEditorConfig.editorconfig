@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eramos_S3
+build_property.ProjectDir = /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/view/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.view.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = view/Login.xaml
+build_metadata.AdditionalFiles.RelativePath = view/Login.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/view/Register.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.view.Register.xaml
+build_metadata.AdditionalFiles.TargetPath = view/Register.xaml
+build_metadata.AdditionalFiles.RelativePath = view/Register.xaml
+
+[/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana3/eramos_S3/view/vPrincipal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = eramos_S3.view.vPrincipal.xaml
+build_metadata.AdditionalFiles.TargetPath = view/vPrincipal.xaml
+build_metadata.AdditionalFiles.RelativePath = view/vPrincipal.xaml
