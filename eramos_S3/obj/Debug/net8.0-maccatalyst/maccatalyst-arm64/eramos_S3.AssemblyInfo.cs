@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eramos_S3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2701cd0ec987154eca6e6923eda433d50c7ef03a")]
 [assembly: System.Reflection.AssemblyProductAttribute("eramos_S3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eramos_S3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

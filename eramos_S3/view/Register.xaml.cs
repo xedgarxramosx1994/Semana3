@@ -14,6 +14,10 @@ public partial class Register : ContentPage
 			Navigation.PushAsync(new Login(txtUserNew.Text, txtPasswordNew.Text));
 		}
 		else
-		DisplayAlert("Error", "Debe ingresar sus datos para crear el usuario", "OK");
+			DisplayAlert("Error", "Debe ingresar sus datos para crear el usuario", "OK");
+	}
+	private void btnCancel_Clicked(object sender, EventArgs e)
+	{
+		Navigation.PushAsync(new Login());
 	}
 }
